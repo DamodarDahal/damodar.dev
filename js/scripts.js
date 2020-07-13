@@ -24,9 +24,9 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Damodar.',
-    'I make web apps to solve problems.',
-    'Most of my development work is using .NET, Node.js and React.js.<br> Open for hire, contact me at <a href="mailto:hi@damodar.dev">hi@damodar.dev</a>',
-    '<a target="_blank" href="https://github.com/DamodarDahal">GitHub.com/DamodarDahal</a><br /><a target="_blank" href="https://linkedin.com/in/Damodar">LinkedIn.com/in/DamodarDahal</a><br /><a target="_blank" href="https://facebook.com/underscoredam">Facebook.com/underscoredam</a>',
+    'I have developed web apps, all the way from prototyping to scaling.',
+    'Available for hire, contact me at <a href="mailto:hi@damodar.dev">hi@damodar.dev</a>',
+    '<a target="_blank" href="https://github.com/damo-da">GitHub.com/damo-da</a><br /><a target="_blank" href="https://linkedin.com/in/damo-da">LinkedIn.com/in/damo-da</a><br /><a target="_blank" href="https://facebook.com/underscoredam">Facebook.com/underscoredam</a>',
     getCurrentTime(),
     '👀 D.'
   ]
